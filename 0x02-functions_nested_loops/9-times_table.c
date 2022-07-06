@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * time_tble - prints the 9 time tables, starting with 0
+ * time_table - prints the 9 time tables, starting with 0
  */
 void time_table(void)
 {
