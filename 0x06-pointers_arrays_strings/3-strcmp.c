@@ -9,7 +9,7 @@
 
 int _strcmp(char *s1, char *s2)
 {
-	int re = 0;
+	int res = 0;
 
 	while (*s1 == *s2 && *s1 != '\0')
 	{
